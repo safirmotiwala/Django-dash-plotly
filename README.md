@@ -7,11 +7,6 @@ The purpose of django-plotly-dash is to enable Plotly Dash applications to be se
 3. Leverage user management and access control and other parts of the Django infrastructure
 4. Consolidate into a single server process to simplify scaling
 
-### Prerequisites
-
-```
-
-```
 
 ### Installing
 
